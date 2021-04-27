@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andy-Tait
 - 👀 I’m interested in Technical Documentation
-- 🌱 I’m currently learning how to automate documentation tasks from text source to hight quality output.
+- 🌱 I’m currently learning how to automate documentation tasks from text-based source to high quality output.
 - 💞️ I’m looking to collaborate on SW and HW documents
 - 📫 How to reach me an
 
